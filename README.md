@@ -1,4 +1,4 @@
-# 🧠 MindMender: Early Depression Detection from Reddit Posts
+# MindMender: Early Depression Detection from Reddit Posts
 
 MindMender is a Natural Language Processing (NLP) project designed to identify early signs of depression from Reddit posts. By analyzing user-generated content, this tool supports scalable, non-invasive mental health monitoring and visualization.
 
